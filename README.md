@@ -1,10 +1,10 @@
-# MyAppAngular8
+# La evolución del frontend: Angular 8
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.1.
+## Iniciar proyecto
 
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Usar el comando ```npm run´´´ para ejecutar un comando personalizado del package.json
+Comandos disponibles:
+-- ```npm run iniciar``` inicia el proyecto y abre un navegador.
 
 ## Code scaffolding
 
